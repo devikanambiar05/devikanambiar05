@@ -1,9 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=150&section=header&text=Devika%20Nambiar&fontSize=44&fontColor=00B4FF&fontAlignY=42&desc=Electrical%20%26%20Electronics%20Engineering%20%7C%20Embedded%20Systems%20%7C%20PCB%20Design&descSize=15&descAlignY=72&descColor=CCD6F6" width="100%" alt="Devika Nambiar - Electrical and Electronics Engineering, Embedded Systems, PCB Design" />
+
+<div align="center">
+
+![Devika Nambiar](https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=180&section=header&text=Devika%20Nambiar&fontSize=50&fontColor=00B4FF&fontAlignY=35&animation=fadeIn)
+
+**Electrical & Electronics Engineering | Embedded Systems | PCB Design**
+
+</div>
+
+
 
 <a href="https://www.linkedin.com/in/devikanambiar17/"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=00B4FF" alt="LinkedIn" /></a>
 <a href="https://github.com/devikanambiar05"><img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=00B4FF" alt="GitHub" /></a>
 <img src="https://img.shields.io/badge/NIT%20Goa-0A192F?style=for-the-badge&logoColor=00B4FF" alt="NIT Goa" />
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Placements-00B4FF?style=for-the-badge&labelColor=0A192F" alt="Open to internships and placements" />
+<img src="https://img.shields.io/badge/Open%20to-Internships-00B4FF?style=for-the-badge&labelColor=0A192F" alt="Open to internships" />
 
 </div>
 
